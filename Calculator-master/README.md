@@ -32,7 +32,7 @@ Clone:
 
 Bash
 
-git clone https://github.com/YourUsername/Simple-Java-Calculator.git
+git clone https://github.com/NastyGeek01/Calculator.git
 Compile & Run:
 
 Bash
