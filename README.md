@@ -6,9 +6,9 @@ A very basic calculator application created using Java **Swing**.
 
 
 ## Screenshots
-|                Scientific / Dark                | Standard / Colored |
-:------------------------------------------------:|:-------------------|
- ![Dark calculator screenshot](screenshots/scientific-dark.png) | ![Colored calculator screenshot](screenshots/standard-light.png)
+<img width="300" height="550" alt="image" src="https://github.com/user-attachments/assets/359c91f1-def8-47a0-b43b-bf2799bccd1c" /> <img width="300" height="550" alt="image" src="https://github.com/user-attachments/assets/8f3fe20e-9956-43e2-aa3e-a4810ee5844b" />
+
+
 
 ## Requirements 🔧
 * Java 11 or higher.
