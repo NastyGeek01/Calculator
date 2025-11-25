@@ -4,23 +4,38 @@ A very basic calculator application created using Java **Swing**.
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
+
 ## Screenshots
-<img width="300" height="550" alt="image" src="https://github.com/user-attachments/assets/028b6de0-c877-41c2-a6f3-8a3f15fb35a0" />
-<img width="300" height="550" alt="image" src="https://github.com/user-attachments/assets/69a8be4b-184c-4dc5-933a-61fa12b37635" />
-
- 
-
+|                Scientific / Dark                | Standard / Colored |
+:------------------------------------------------:|:-------------------|
+ ![Dark calculator screenshot](screenshots/scientific-dark.png) | ![Colored calculator screenshot](screenshots/standard-light.png)
 
 ## Requirements 🔧
 * Java 11 or higher.
 
-## Installation 🔌
-1. Press the **Fork** button (top right the page) to save copy of this project on your account.
+🧮 Java Console Calculator
+Overview
+This project is a simple command-line calculator built in Java. It allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers.
 
-2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
+🎯 Objective
+To apply and demonstrate core Object-Oriented Programming (OOP) concepts, modular design, and basic exception handling in Java.
 
-       git clone https://github.com/HouariZegai/Calculator.git
-3. Imported it in Intellij IDEA or any other Java IDE.
-4. Run the application :D
+🛠️ Concepts Applied
+Java OOP: Uses a dedicated Calculator class.
 
+I/O Handling: Utilizes Scanner for robust user input.
 
+Modularization: Separate methods for each arithmetic operation.
+
+🚀 Getting Started
+Clone:
+
+Bash
+
+git clone https://github.com/NastyGeek01/Calculator.git
+Compile & Run:
+
+Bash
+
+javac Main.java Calculator.java
+java Main
