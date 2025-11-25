@@ -5,10 +5,10 @@ A very basic calculator application created using Java **Swing**.
 
 
 ## Screenshots
-|                Scientific / Dark                | Standard / Colored |
-:------------------------------------------------:|:-------------------|
- ![Dark calculator screenshot](screenshots/scientific-dark.png) | ![Colored calculator screenshot](screenshots/standard-light.png)
- <img width="476" height="593" alt="image" src="https://github.com/user-attachments/assets/d85a0424-a9f4-4865-b2a2-ab2e6b9dd1bc" />
+<img width="300" height="550" alt="image" src="https://github.com/user-attachments/assets/028b6de0-c877-41c2-a6f3-8a3f15fb35a0" />
+<img width="300" height="550" alt="image" src="https://github.com/user-attachments/assets/69a8be4b-184c-4dc5-933a-61fa12b37635" />
+
+ 
 
 
 ## Requirements 🔧
