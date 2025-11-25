@@ -8,6 +8,8 @@ A very basic calculator application created using Java **Swing**.
 |                Scientific / Dark                | Standard / Colored |
 :------------------------------------------------:|:-------------------|
  ![Dark calculator screenshot](screenshots/scientific-dark.png) | ![Colored calculator screenshot](screenshots/standard-light.png)
+ <img width="476" height="593" alt="image" src="https://github.com/user-attachments/assets/d85a0424-a9f4-4865-b2a2-ab2e6b9dd1bc" />
+
 
 ## Requirements 🔧
 * Java 11 or higher.
